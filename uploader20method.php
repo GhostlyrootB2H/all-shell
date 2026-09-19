@@ -10,7 +10,7 @@
     <link rel="icon" href="https://i.ibb.co/4Z0dvLZ/20200907-155551.jpg" type="image/jpg">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Rock+Salt|Righteous" rel="stylesheet">
-    <title>Bypass Uploader By ID69</title>
+    <title>Bypass Uploader By B2HTEAM</title>
     <style>
         h5 { font-family: "Rock Salt"; }
         body { background-color: black; color: white; }
@@ -28,7 +28,7 @@
 
 <div class="container p-3 mt-3">
     <center>
-        <h5 class="text-center">Bypass Uploader By ID69</h5>
+        <h5 class="text-center">Bypass Uploader By B2HTEAM</h5>
     </center>
     <hr>
     <center>
